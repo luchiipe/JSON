@@ -1,0 +1,27 @@
+[
+
+{
+    "nombre": "Luciana",
+    "apellido": "Perez",
+    "edad": 19,
+    "precioMouse": 200,
+    "pagado": true,
+    "mouse": {
+        "numero": 10,
+        "letra": "A",
+        "bateria": true
+    },
+"historial": [
+    {
+        "salida": "Brasil",
+        "destino": "Torres",
+        "fecha": "15/01/2015"
+    },
+    {
+        "salida": "Buenos Aires",
+        "destino": "Palermo",
+        "fecha": "03/02/2019"
+    }
+]
+}
+]
